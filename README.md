@@ -1,6 +1,8 @@
-# cubes-api
+# PoireToPoire
 
-Backend for CUBES project
+[![Docker build and push](https://github.com/PoireToPoire/backend/actions/workflows/main.yml/badge.svg)](https://github.com/PoireToPoire/backend/actions/workflows/main.yml)
+
+REST API to interact with database
 
 ## Local run
 
