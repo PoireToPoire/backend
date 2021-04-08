@@ -10,9 +10,9 @@ on:
 
 jobs:
   build-docker-and-deploy:
+    name: Build and push Docker images
     runs-on: ubuntu-latest
     steps:
-    - name: Build and push Docker images
     - uses: docker/build-push-action@v2.4.0
       with:
         context: .
