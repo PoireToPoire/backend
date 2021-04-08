@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+mysql-connector
+mysql-connector-python
+fastapi-jwt-auth
+python-multipart
+pydantic
