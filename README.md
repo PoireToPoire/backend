@@ -1,4 +1,4 @@
-# PoireToPoire
+# PoireToPoire Backend
 
 [![Docker build and push](https://github.com/PoireToPoire/backend/actions/workflows/main.yml/badge.svg)](https://github.com/PoireToPoire/backend/actions/workflows/main.yml)
 
