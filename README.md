@@ -31,3 +31,7 @@ Start the adminer and the API
 ```sh
 docker-compose up -d
 ```
+
+## Documentation
+
+Once runned, you can access swagger via `/docs`, and ReDoc with `/redoc`
