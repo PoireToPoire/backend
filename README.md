@@ -17,6 +17,8 @@ uvicorn main:app --reload --port 8000 --host <my-public-host>
 docker-compose up -d db
 docker exec -it cubes-db /bin/bash -c "cd /docker-entrypoint-initdb.d && mysql -u root -p"
 ```
+This proccess needs to be run once in order to populate the database which will be persisted for
+next developments
 
 Then, enter the root password specified inside the docker compose file
 and import the database script
